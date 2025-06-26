@@ -30,17 +30,17 @@ I turn complex data into clear insights that inform decision-making and drive im
 ### USAID-Aligned M&E Framework & Dashboard  
 Designed and maintained end-to-end M&E plans meeting USAID and corporate standards. Built interactive Power BI dashboards tracking 50+ KPIs across finance, enterprise growth, and the digital economy.
 
----
+
 
 ### Health Analytics Ethiopia  
 [Interactive Power BI visualizations on Ethiopian health data](https://github.com/Lydia244/health-analytics-ethiopia)
 
----
+
 
 ### Large-Scale Data Processing Pipeline  
 Automated cleaning, validation, and aggregation of 95,000+ quarterly records using Excel, SQL, and Python—boosting reporting accuracy by 35% and enabling timely quarterly/annual reports.
 
----
+
 
 ### Blended Finance Trend Analysis & Adaptive Management Toolkit  
 Quantitative analysis of enterprise financing data to inform investment strategies. Integrated insights into a “pause-and-reflect” toolkit that drove clear project adaptations.
