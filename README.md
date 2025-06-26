@@ -3,7 +3,7 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Lydia244/health-analytics-ethiopia)  
 ![GitHub top language](https://img.shields.io/github/languages/top/Lydia244/health-analytics-ethiopia)
 
-**Monitoring, Evaluation, and Learning (MEL) Specialist** | **Data Analyst**
+**Monitoring, Evaluation, and Learning (MEL) Specialist** | **Data Analyst**  | **Data Visualization Specialist**
 
 Addis Ababa, Ethiopia • [LinkedIn](https://www.linkedin.com/in/lydia-gezahegn-18bb4a172) • lydia.gezhagenn@gmail.com
 
